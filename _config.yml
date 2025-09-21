@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Loonfactory 성장 기록"
+title                    : "Loonfactory의 자료 저장소"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Loonfactory"
-description              : "견고한 C# 코드를 만들던 백엔드 개발자가 AI라는 새로운 세계를 탐험하며 얻는 깨달음과 성장의 과정을 기록합니다. 기술의 원리를 깊이 있게 탐구하고, 전략적으로 학습하며 얻은 경험을 공유합니다."
+description              : ""
 url                      : "https://loonfactory.github.io" # 본인 블로그 주소
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "loonfactory/loonfactory.github.io" # 본인 저장소 주소
@@ -116,7 +116,7 @@ analytics:
 author:
   name             : "Loonfactory"
   avatar           : # "/assets/images/bio-photo.jpg" # /assets/images/ 폴더에 프로필 사진 업로드 후 경로 지정
-  bio              : "C# Developer"
+  bio              : ""
   location         : "South Korea"
   email            :
   links:
